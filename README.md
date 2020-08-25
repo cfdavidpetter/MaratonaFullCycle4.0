@@ -1,6 +1,6 @@
-# MaratonaFullCycle4.0
+# Maratona FullCycle 4.0
 
-## Desafio - Hello World com Docker
+## Desafio 1 - Hello World com Docker
 
 Durante toda a Maratona utilizaremos containers como base de desenvolvimento bem como para produção. Logo, ter uma noção básica de Docker é mais do que necessário.
 
